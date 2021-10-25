@@ -21,6 +21,8 @@
   
   <p align="center"> The following are images of the project and their descriptions </p>
   
+   <img style="margin: 10px" src="http://imgroots.com/images/2021/10/25/cap1.png" alt="react" height="300" />
+  
   
 ## Documentation
 
